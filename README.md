@@ -84,7 +84,7 @@ install.packages(c("readxl", "dplyr", "cluster", "here", "ggplot2"))
 Run the analysis script:
 
 ```r
-source("R_air_pollution_clustering.R")
+source("R/R_air_pollution_clustering.R")
 ```
 
 ## Limitations
